@@ -4,15 +4,15 @@ Senior Software Engineer at [MacPaw](https://macpaw.com/)
 
 ## Contact
 
-- Phone: [+380 67 123 45 67](tel:+380671234567
-- E-mail: [shramko.webGgmail.com](mailto:shramko.webGgmail.com)
+- Phone: [+380 67 123 45 67](tel:+380671234567)
+- E-mail: [shramko.web@gmail.com](mailto:shramko.web@gmail.com)
 - Telegram: @in_js_we_trust
 - [LinkedIn](https://www.linkedin.com/in/shramko-dev/)
 - [GitHub](https://github.com/shramkoweb)
 
 ## Bio
 
-Hi there, I'm Serhii.
+Hello, I'm Serhii.
 
 I am a developer at [MacPaw](https://macpaw.com/) web team, where my team develops cool sites and internal projects for
 the company.
@@ -74,14 +74,15 @@ Hexa - a small web studio that makes websites and turnkey solutions.
 
 ### Frontend
 
-REACT, TS, JS, REDUX, MOBX, NEXT, GATSBY, JEST, EFFECTOR, ENZYME, SASS, BEM, PUG, HTML, CSS, FIGMA, STORYBOOK, WEBPACK, GIT
+REACT, TS, JS, REDUX, MOBX, NEXT, GATSBY, JEST, EFFECTOR, ENZYME, SASS, BEM, PUG, HTML, CSS, FIGMA, STORYBOOK, WEBPACK,
+GIT
 
 ### Backend
 
 NODE, NEST, EXPRESS, POSTGRESQL, ORM, JWT, SUPERTEST, PINO, SEQULIZE, TYPEORM, REST, GRAPHQL, APOLLO
 
-
 ## Languages
+
 - English - B2
 - Ukrainian - native
 - Russian - native
