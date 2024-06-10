@@ -6,7 +6,7 @@ Senior Software Engineer at [MacPaw](https://macpaw.com/)
 
 - Phone: [+380 67 123 45 67](tel:+380671234567)
 - E-mail: [shramko.web@gmail.com](mailto:shramko.web@gmail.com)
-- Telegram: @in_js_we_trust
+- Telegram: [@in_js_we_trust](https://t.me/in_js_we_trust)
 - [LinkedIn](https://www.linkedin.com/in/shramko-dev/)
 - [GitHub](https://github.com/shramkoweb)
 
