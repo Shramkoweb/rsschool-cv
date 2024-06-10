@@ -23,8 +23,7 @@ courses at [HTML Academy](https://htmlacademy.ru/profile/id852139).
 
 ## Experience
 
-October 2021 – present.
-Senior Engineer at [MacPaw](https://macpaw.com/)🐾
+**October 2021 – present**. Senior Engineer at [MacPaw](https://macpaw.com/)🐾
 
 MacPaw develops software for iOS and MacOS. Their products include CleanMyMac, Setapp, Gemini Photos and more. MacPaw‘s
 active user base exceeds 30 million worldwide. Every fifth Mac on Earth has at least one app by MacPaw.
@@ -35,8 +34,7 @@ active user base exceeds 30 million worldwide. Every fifth Mac on Earth has at l
 - I was a speaker at internal Front-end meetups
 
 ---
-November 2020 – October 2021
-Frontend Developer at [Phase One Karma](https://p1k.org/)
+**November 2020 – October 2021**. Frontend Developer at [Phase One Karma](https://p1k.org/)
 
 Phase One Karma created AI-driven anti-plagiarism checker with more than 1 million users
 worldwide [Unicheck](https://unicheck.com/).
@@ -49,8 +47,7 @@ worldwide [Unicheck](https://unicheck.com/).
 
 ---
 
-April 2019 – November 2020
-Frontend Developer at [PDFfiller](https://www.pdffiller.com/)
+**April 2019 – November 2020**. Frontend Developer at [PDFfiller](https://www.pdffiller.com/)
 
 One of four Ukrainian unicorn 🦄 company. PDFfiller is a comprehensive online document management platform and provides
 service to over 120,000 businesses around the world and in almost every industry.
@@ -62,8 +59,7 @@ service to over 120,000 businesses around the world and in almost every industry
 
 ---
 
-December 2018 – March 2019
-Frontend Developer at [Hexa](https://hexa.com.ua/en/home/)
+**December 2018 – March 2019**. Frontend Developer at [Hexa](https://hexa.com.ua/en/home/)
 
 Hexa - a small web studio that makes websites and turnkey solutions.
 
@@ -83,11 +79,14 @@ NODE, NEST, EXPRESS, POSTGRESQL, ORM, JWT, SUPERTEST, PINO, SEQULIZE, TYPEORM, R
 
 ## Languages
 
-- English - B2
-- Ukrainian - native
-- Russian - native
+- **English** - B2
+- **Ukrainian** - native
+- **Russian** - native
 
 ## Education
 
-Master degree in Electromechanical Systems of Automation and Electric Drive
-at [National Mining University](https://www.nmu.org.ua/en/).
+- **2022** Official NestJS course at [nestjs.com](https://courses.nestjs.com/)
+- **2019**  Frontend courses at [Hexlet](https://ru.hexlet.io/u/shramkoweb)
+- **2018** Front-end courses at [HTML Academy](https://htmlacademy.ru/profile/id852139/certificates)
+- **2016** Master degree in Electromechanical Systems of Automation and Electric Drive
+  at [National Mining University](https://www.nmu.org.ua/en/).
